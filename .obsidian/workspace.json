@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "7f4643785c19793e",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ba216b2b24c5bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc7e2b970d2dfe28",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8aa155472a6a1c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32b004b3358f544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a5b94bd6320269",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "c3556e3d54e3e031",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75ff1e7044b1d348",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "642382553b9daca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "74e1a703531c245b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d3d9f4e1118694",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9f57659bdfc27fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59de84a9572d8c7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec2a058d078c347c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "abec61e014fbd93f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ce02f606002e257",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "bc7e2b970d2dfe28",
+  "lastOpenFiles": [
+    "Notes/アッザム.md",
+    "Notes/ビグロマイヤー.md",
+    "Notes/ビグ・ザム.md",
+    "Notes/ガンキャノン2.md",
+    "Notes/量産型ZZガンダム.md",
+    "Notes/サイコガンダムMK-3.md",
+    "Notes/量産型キュベレイ.md",
+    "Notes/ゲーマルク.md",
+    "Notes/量産型ハンマ・ハンマ.md",
+    "Notes/ハンマ・ハンマ.md",
+    "Notes/キュベレイMk-2.md",
+    "Notes/キュベレイ.md",
+    "Notes/エルメス.md",
+    "Notes/サイコガンダムMk-2.md",
+    "Notes/ドーベルウルフ.md",
+    "Notes/量産型サイコガンダム.md",
+    "Notes/サイコガンダム.md",
+    "Notes/プロトタイプサイコガンダム.md",
+    "Notes/ZZガンダムFA.md",
+    "Notes/ZZガンダム.md",
+    "Notes/プロトタイプZZガンダム.md",
+    "Notes/ガンキャノン重装型.md",
+    "Notes/ガンキャノン.md",
+    "Notes/量産型ガンキャノン.md",
+    "Notes/ガンタンクR44.md",
+    "Notes/ガンタンク2.md",
+    "Template",
+    "Notes"
+  ]
+}
